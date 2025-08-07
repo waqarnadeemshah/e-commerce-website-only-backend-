@@ -31,6 +31,8 @@ The backend provides all core functionalities like user authentication, product/
 ✅ Delivered orders total sales via aggregation  
 ✅ MongoDB hybrid data modeling (embedded + references)
 
+ Project Structure
+
 --- ├── controllers/
 │ └── authtication.controller.js
 | └── admin.controller.js
@@ -59,8 +61,6 @@ The backend provides all core functionalities like user authentication, product/
 ├── uploads/
 │ └── product-images/
 ├── .env
-├── app.js
+├── app.js (M)
 ├── package.json
-
-## 📁 Project Structure
 
